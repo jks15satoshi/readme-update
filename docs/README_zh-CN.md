@@ -2,6 +2,8 @@
 
 自动更新你的 GitHub README 档案。
 
+[![wakatime](https://wakatime.com/badge/github/jks15satoshi/readme-update.svg)](https://wakatime.com/badge/github/jks15satoshi/readme-update)
+
 [English](../README.md) | 中文（简体）
 
 ## 参考
